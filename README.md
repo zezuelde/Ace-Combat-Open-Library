@@ -12,7 +12,7 @@ You can either email the following: zezuely10@gmail.com and ask to be added to b
 
 > Where can I more of these libraries?
 
-  Either checking my profile and going into the **Repositories** tab or going into this repostiorys wiki which is [here]
+  Either checking my profile and going into the **Repositories** tab or going into this repostiorys wiki which is [here](https://github.com/zezuelde/Ace-Combat-Open-Library/wiki/Other-Libraries--And-Extras)
   
 > Why are all the librarys seperate and some of the models contained in ZIP files?!
 
@@ -23,4 +23,7 @@ You can either email the following: zezuely10@gmail.com and ask to be added to b
 > Do not speak about this repository openly as it may attract unwanted attention, I'd highly suggest keeping this a quiet thing, I have any and all repositories affiliated to this duplicated and privated just incase.
 
 > [!IMPORTANT]
-> I/We are not the original creators of these models, users wanting to contribute to this project can also scour the internet of assets if they do not have prior experience of using something like QuickBMS or UModel (common for extracting .paks and viewing models for Ace Combat 7)
+> I/We are not the original creators of these models, users wanting to contribute to this project can also scour the internet of assets if they do not have prior experience of using something like QuickBMS or UModel (common for extracting .paks and viewing models for Ace Combat 7)  
+
+  
+All credits of people whom added assets to (Insert library here) are in those respective repositories.
