@@ -8,7 +8,7 @@ This was made to help all people of all kind, whether modders, livery makers, an
   
 > How do I contribute/add more assets that I've found/ripped?
 
-You can either email the following: zezuely10@gmail.com and ask to be added to become a contributor OR the latter; email the stuff you've ripped/found and commit it into the main branch itself (you can ask for credit or no credit, your choice)  
+You can either email the following: zezuely10@gmail.com and ask to be added to become a contributor OR the latter; email the stuff you've ripped/found and I can commit it into the main branch itself (you can ask for credit or no credit, your choice)  
 
 > Where can I more of these libraries?
 
