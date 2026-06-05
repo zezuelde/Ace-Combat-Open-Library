@@ -10,7 +10,7 @@ This was made to help all people of all kind, whether modders, livery makers, an
 
 You can either email the following: zezuely10@gmail.com and ask to be added to become a contributor OR the latter; email the stuff you've ripped/found and I can commit it into the main branch itself (you can ask for credit or no credit, your choice)  
 
-> Where can I more of these libraries?
+> Where can I find more of these libraries?
 
   Either checking my profile and going into the **Repositories** tab or going into this repostiorys wiki which is [here](https://github.com/zezuelde/Ace-Combat-Open-Library/wiki/Other-Libraries--And-Extras)
   
@@ -20,7 +20,7 @@ You can either email the following: zezuely10@gmail.com and ask to be added to b
 2. For compressing sizes.
   
 > [!WARNING]
-> Do not speak about this repository openly as it may attract unwanted attention, I'd highly suggest keeping this a quiet thing, I have any and all repositories affiliated to this duplicated and privated just incase.
+> Do not speak about this repository openly as it may attract unwanted attention, I'd highly suggest keeping this a quiet thing, I have any and all repositories affiliated to myself and the deletion of them and the termination of my account will render this project useless.
 
 > [!IMPORTANT]
 > I/We are not the original creators of these models, users wanting to contribute to this project can also scour the internet of assets if they do not have prior experience of using something like QuickBMS or UModel (common for extracting .paks and viewing models for Ace Combat 7)  
