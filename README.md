@@ -2,7 +2,7 @@
 <sup>SU-27 Flanker model from Ace Combat 5: The Unsung War</sup>  
 
 # Ace-Combat-Open-Library
-## An Open Library of all preserved assets from the Ace Combat series (1993 - XXXX)
+## An Open Library of all preserved assets from the Ace Combat series (1995 - XXXX)
 
 This was made to help all people of all kind, whether modders, livery makers, animators, and a whole bunch of others (with a disclaimer of maybe consulting the creators) to being able to use the assets for their own personal use.
   
